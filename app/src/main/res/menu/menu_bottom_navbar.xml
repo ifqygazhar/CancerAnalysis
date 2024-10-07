@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="@string/home"
+        android:icon="@drawable/baseline_home_filled_24" />
+    <item
+        android:id="@+id/navigation_article"
+        android:title="@string/news"
+        android:icon="@drawable/baseline_article_24" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:title="@string/history"
+        android:icon="@drawable/baseline_history_24" />
+
+
+
+</menu>
